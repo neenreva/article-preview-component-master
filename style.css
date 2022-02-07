@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   font-size: 100%;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
 html {
@@ -168,7 +168,7 @@ footer {
   body {
     display: flex;
     flex-direction: row;
-    max-width: 850px;
+    max-width: 855px;
     height: 20rem;
   }
 
@@ -208,7 +208,7 @@ footer {
 
   h2 {
     padding-top: 0;
-    font-size: 1.5rem;
+    font-size: 1.45rem;
     line-height: 2rem;
   }
 
